@@ -5,7 +5,7 @@ import sys
 
 def emoji_generate(text):
     #TureTypeFont and FontSize
-    font = ImageFont.truetype("/Users/taillook/Library/RictyDiminished-Bold.ttf", 64)
+    font = ImageFont.truetype("RictyDiminished-Bold.ttf", 64)
 
     image = Image.new('RGB', (128, 128), (255, 255, 255))
     draw = ImageDraw.Draw(image)
