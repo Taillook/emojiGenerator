@@ -3,7 +3,7 @@ Emoji generation script for "slack"
 
 # Required library
 
-+PIL
+- PIL
 
 `pip3 install pillow`
 
