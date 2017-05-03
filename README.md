@@ -1,11 +1,14 @@
 # emojiGenerator
+
 Emoji generation script for "slack"
 
-# Required library
+# Requirements
 
+- Python 3.5
 - PIL
 
-`pip3 install pillow`
-
 # Usage
-`python3 emojiGenerator.py String(max length 4)`  
+
+``` shell
+python generate_emoji.py にほんご(max length 4) --font /path/to/font.ttf
+```
