@@ -1,7 +1,6 @@
 emojiGenerator
 ====
-![Downloads](https://img.shields.io/github/downloads/Taillook/emojiGenerator/total.svg)
-![Releases](https://img.shields.io/github/release/Taillook/emojiGenerator.svg)
+
 ![Open issues](https://img.shields.io/github/issues/Taillook/emojiGenerator.svg)
 ![Closed issues](https://img.shields.io/github/issues-closed/Taillook/emojiGenerator.svg)
 ![MIT licensed](https://img.shields.io/github/license/mashape/apistatus.svg)  
