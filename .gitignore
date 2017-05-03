@@ -1,0 +1,4 @@
+# gitignore for emoji generator
+
+*.png
+__pycache__/
