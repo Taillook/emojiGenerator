@@ -29,6 +29,7 @@ Emoji-Web is intuitive, but we don't want to use a mouse.
 ### Options
 ```
 --font /path/to/font.ttf
+--color '#000000'
 ```
 
 ## Installation
