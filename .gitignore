@@ -1,4 +1,11 @@
 # gitignore for emoji generator
 
 *.png
+*.bmp
+*.eps
+*.gif
+*.jpg
+*.ppm
+*.pdf
+*.psd
 __pycache__/
