@@ -24,7 +24,7 @@ Emoji-Web is intuitive, but we don't want to use a mouse.
 - PIL
 
 ## Usage
-`python generate_emoji.py JapaneseStrings(max length 4)`
+`python generate_emoji.py JapaneseStrings(max length 4) options`
 
 ### Options
 ```
