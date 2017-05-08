@@ -39,7 +39,6 @@ git clone https://github.com/Taillook/emojiGenerator.git
 ```
 
 ## Futures
-- FontColor Option
 - FontSize auto resize
 
 ## Contribution
